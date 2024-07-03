@@ -362,3 +362,87 @@
 <img width="960" alt="image" src="https://github.com/Vishnupathi2/html-ABC-college/assets/145830753/3c516980-7670-4262-86c0-049b510f8c6d">
 <img width="960" alt="image" src="https://github.com/Vishnupathi2/html-ABC-college/assets/145830753/5c48609a-152b-4310-baf1-5d15b00ce65d">
 
+
+# MY DAY
+```C
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Day</title>
+</head>
+<body>
+<table cellpadding= "10" cellspacing="10" style="border-style: double;">
+<tr>
+<th colspan="2" class="center" style="border-style: double;"><mark>My Day</mark></th>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol>
+<li>wake up early
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">5AM</li>
+<li>walk</li>
+<li>jog</li>
+</ul>
+</li>
+</ol>
+</td>
+<td rowspan="3" style="border-style: double;">
+<table>
+<tr>
+<th colspan="2" class="center highlight" style="border-style: double;"><mark>Things to watch</mark></th>
+</tr>
+<tr >
+<td style="border-style: double;"><img src="pexels-pixabay-209807.jpg" alt="image 1" width="100" height="100" >
+<td style="border-style: double;"><img src="images (4).jpeg" alt="image 2" width="100" height="100">
+</tr>
+<tr>
+<td style="border-style: double;"><img src="images (6).jpeg" alt="image 3" width="100" height="100">
+<td style="border-style: double;"><img src="pexels-photo-3657154.jpeg" alt="image 4" width="100" height="100">
+</td>
+
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol start="2">
+<li>breakfast
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">8AM</li>
+<li>eggs</li>
+<li>coffee</li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol start="3">
+<li>go to Saveetha
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">8AM</li>
+<li>attend classes</li>
+<li>to be continued</li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+</table>
+</body>
+</html>
+```
+## Output
+![image](https://github.com/Vishnupathi2/html-ABC-college/assets/145830753/a058ab98-b467-4507-b96f-6410d079105c)
+
+
+## Result:
+Thus,Creating a html file to display the content in the above picture was executed successfully.
+
+
